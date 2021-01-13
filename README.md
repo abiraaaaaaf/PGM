@@ -1,2 +1,3 @@
 # PGM
- Pobabilistic graphical models
+ Probabilistic Graphical Models
+  - pgmpy :  https://github.com/pgmpy/pgmpy
